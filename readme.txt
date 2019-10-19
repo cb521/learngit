@@ -1,6 +1,3 @@
-git is a version control systerm
-git is free software:
-sdaasa saasa caxjajdxhjax
-sasasasas
-chaibin521qq
-yelnaqing
+Git is a version control system.
+Git is free software.
+
